@@ -55,11 +55,11 @@ AI-powered documentation tool that generates codebase-aware documentation automa
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thrishma&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrishma&layout=compact)
 
 ## 🌐 Connect
 
 Portfolio: https://www.thrishma.com  
-LinkedIn: [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/thrishma-reddy/)
+LinkedIn: https://www.linkedin.com/in/thrishma-reddy/
