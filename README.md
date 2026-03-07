@@ -1,65 +1,146 @@
-# Hi, I'm Thrishma Reddy 👋
+# Hey, I'm Thrishma Reddy 👋
 
-Senior Software Engineer building AI products, developer tools, and scalable cloud systems.
+🚀 Senior Software Engineer building **AI products, developer tools, and scalable cloud systems**
 
-I specialize in AWS serverless architectures, generative AI systems, and rapid startup experimentation. My work focuses on turning complex technical problems into simple, usable products.
+I work at the intersection of:
 
-## 🚀 Current Projects
+• Generative AI  
+• Cloud infrastructure  
+• Developer tools  
+• Composable ecommerce systems  
+• Fast startup experimentation  
 
-### Zoneity
-AI platform that converts zoning regulations into structured data and queryable APIs.
+I like turning messy, complex problems into **clean systems and real products**.
 
-### ScrollSay
-AI-powered Chrome extension that generates contextual social media comments using LLMs.
+---
 
-### AutoReel
-Serverless AI system that generates social media reels from photo libraries using AWS Lambda and AI models.
+# 🧠 What I'm Building
 
-### Docrity
-AI-powered documentation tool that generates codebase-aware documentation automatically.
+### 🏙 Zoneity
+AI platform turning **zoning regulations into structured data and queryable APIs**.
 
-## 🛠 Tech Stack
+Making city planning rules searchable, programmable, and actually understandable.
 
-**AI / ML**
-- LLM Systems
-- Prompt Engineering
-- AI Agents
-- Vector Search
+---
 
-**Cloud**
-- AWS Lambda
-- DynamoDB
-- SQS
-- Event-driven architecture
-- Serverless systems
+### 💬 ScrollSay
+AI Chrome extension that **generates contextual social media comments** using LLMs.
 
-**Engineering**
-- Python
-- Node.js
-- React
-- REST APIs
-- Distributed systems
+Because typing “Great post!” manually 400 times is not the best use of human intelligence.
 
-**Tools**
-- Docker
-- GitHub Actions
-- Infrastructure as Code
+---
 
-## 🔬 Currently Exploring
+### 🎬 AutoReel
+Serverless AI system that **automatically generates social media reels from photo libraries**.
 
-- AI agents
-- Developer tools
-- Urban data infrastructure
-- Automation platforms
-- Computer vision systems
+Powered by AWS Lambda, AI models, and automated video pipelines.
 
-## 📊 GitHub Stats
+---
+
+### 📚 Docrity
+AI documentation system that **reads your codebase and writes documentation for you**.
+
+Because every developer promises to write docs later.
+
+---
+
+# 🏗 Systems & Architecture Experience
+
+Alongside building AI products, I work on **large-scale composable commerce and cloud architectures**.
+
+I enjoy designing systems that integrate multiple services into **flexible, scalable platforms**.
+
+### Composable Commerce
+Headless commerce architectures  
+API-first integrations  
+Microservices-based ecommerce systems  
+
+### Architecture Patterns
+MACH architecture (Microservices, API-first, Cloud-native, Headless)  
+Event-driven systems  
+Integration orchestration  
+
+### Platforms & Ecosystem
+Commerce platforms  
+PIM / OMS integrations  
+Search and personalization services  
+
+---
+
+# 🛠 Things I Build With
+
+### AI & Machine Learning
+LLMs • Prompt Engineering • AI Agents • Vector Search • RAG Systems
+
+### Cloud & Infrastructure
+AWS Lambda • DynamoDB • SQS • Event-driven architectures • Serverless systems
+
+### Backend Engineering
+Python • Node.js • REST APIs • Distributed systems • Data pipelines
+
+### Frontend
+React • Browser extensions • Modern web interfaces
+
+### Commerce Architecture
+Composable commerce • MACH architecture • Headless ecommerce • API orchestration
+
+### DevOps & Tooling
+Docker • GitHub Actions • Infrastructure as Code • CI/CD workflows
+
+---
+
+# ⚡ Things I Enjoy Building
+
+• AI-powered developer tools  
+• Automation platforms  
+• Cloud-native backend systems  
+• Composable ecommerce infrastructure  
+• Experimental startup ideas  
+• Weird prototypes that sometimes become real products  
+
+---
+
+# 🔬 Currently Exploring
+
+🤖 AI agents  
+🛠 developer tooling  
+🏙 urban data infrastructure  
+⚙️ automation systems  
+👁 computer vision  
+
+Basically: **how far software can go when AI becomes part of system design.**
+
+---
+
+# 📂 Proof of Work
+
+Things you'll find in my repositories:
+
+• AI-powered Chrome extensions  
+• serverless AI pipelines  
+• LLM-powered automation tools  
+• composable ecommerce integrations  
+• cloud-native backend systems  
+• experimental startup prototypes  
+
+---
+
+# 📊 GitHub Activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thrishma&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrishma&layout=compact)
 
-## 🌐 Connect
+---
 
-Portfolio: https://www.thrishma.com  
-LinkedIn: https://www.linkedin.com/in/thrishma-reddy/
+# 🌐 Find me around the internet
+
+🌍 Portfolio  
+https://thrishma.com  
+
+💼 LinkedIn  
+https://linkedin.com/in/thrishma-reddy
+
+---
+
+⭐ I like building fast, experimenting often, and shipping real systems.
