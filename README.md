@@ -133,14 +133,4 @@ Things you'll find in my repositories:
 
 ---
 
-# 🌐 Find me around the internet
-
-🌍 Portfolio  
-https://thrishma.com  
-
-💼 LinkedIn  
-https://linkedin.com/in/thrishma-reddy
-
----
-
 ⭐ I like building fast, experimenting often, and shipping real systems.
