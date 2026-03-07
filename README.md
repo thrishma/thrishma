@@ -4,7 +4,7 @@
 
 <h2 align="center">Welcome to my profile 👋</h2>
 
-Hi, I'm  [<img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://readme-typing-svg.herokuapp.com/?lines=Thrishma+Reddy&center=true&width=600&height=45)" width="500"/>](https://readme-typing-svg.herokuapp.com/?lines=Thrishma+Reddy&center=true&width=600&height=45)
+Hi, I'm  **Thrishma Reddy**,
 Senior Software Engineer building **AI products, developer tools, and scalable cloud systems**.
 
 I enjoy turning complex problems into simple systems and real products.
