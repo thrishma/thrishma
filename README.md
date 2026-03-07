@@ -125,12 +125,4 @@ Things you'll find in my repositories:
 
 ---
 
-# 📊 GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thrishma&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrishma&layout=compact)
-
----
-
 ⭐ I like building fast, experimenting often, and shipping real systems.
