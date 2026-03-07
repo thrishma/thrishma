@@ -1,41 +1,65 @@
-## Thrishma — Technical Co-Founder & Full-Stack Engineer
+# Hi, I'm Thrishma Reddy 👋
 
-Building [Snoopi](link) — social intelligence platform for brands & agencies.
-Previously: [Docrity](link) — automated docs via GitHub Actions.
+Senior Software Engineer building AI products, developer tools, and scalable cloud systems.
 
-**Stack I reach for:** Node.js · AWS · PostgreSQL · React · Python  
-**Currently exploring:** MCP/agent tooling, AI-native developer tools
+I specialize in AWS serverless architectures, generative AI systems, and rapid startup experimentation. My work focuses on turning complex technical problems into simple, usable products.
 
-📍 Waterloo, ON  |  💼 Open to senior eng / founding engineer roles
-```
+## 🚀 Current Projects
 
-The key difference: **specificity + signal**. You're not "a developer" — you're someone who built real things.
+### Zoneity
+AI platform that converts zoning regulations into structured data and queryable APIs.
 
-**Optional power-ups to add:**
-- GitHub stats card (shows top languages, streak)
-- A one-line "currently building" that you update monthly
-- Links to live demos / your site
+### ScrollSay
+AI-powered Chrome extension that generates contextual social media comments using LLMs.
 
----
+### AutoReel
+Serverless AI system that generates social media reels from photo libraries using AWS Lambda and AI models.
 
-## 3. 📄 Project READMEs
+### Docrity
+AI-powered documentation tool that generates codebase-aware documentation automatically.
 
-Think of each README as a **product page**, not a technical manual.
+## 🛠 Tech Stack
 
-**Weak README structure (common):**
-```
-# My Project
-How to install...
-```
+**AI / ML**
+- LLM Systems
+- Prompt Engineering
+- AI Agents
+- Vector Search
 
-**Strong README structure (used by top OSS projects):**
-```
-# Project Name — one punchy line what it does
+**Cloud**
+- AWS Lambda
+- DynamoDB
+- SQS
+- Event-driven architecture
+- Serverless systems
 
-[screenshot or demo GIF here]  ← most people skip this, huge mistake
+**Engineering**
+- Python
+- Node.js
+- React
+- REST APIs
+- Distributed systems
 
-## Why this exists (the problem)
-## What it does (with examples)
-## Quick start (3 commands max to get running)
-## Tech stack
-## Status / roadmap
+**Tools**
+- Docker
+- GitHub Actions
+- Infrastructure as Code
+
+## 🔬 Currently Exploring
+
+- AI agents
+- Developer tools
+- Urban data infrastructure
+- Automation platforms
+- Computer vision systems
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+## 🌐 Connect
+
+Portfolio: https://www.thrishma.com  
+LinkedIn: [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/thrishma-reddy/)
