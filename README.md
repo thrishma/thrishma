@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
-<h2 align="center">Welcome to my profile 👋</h2>
+<h2 align="center">Welcome 👋</h2>
 
 Hi, I'm  **Thrishma Reddy**,
 Senior Software Engineer building **AI products, developer tools, and scalable cloud systems**.
