@@ -21,14 +21,20 @@ I build AI products and developer tools that turn messy real-world data into usa
 **[Zoneity](https://zoneity.app/)** — [repo](https://github.com/thrishma/zoneity)  
 AI platform turning zoning regulations into structured, queryable data.
 
+**[Docrity](https://www.docrity.ca/)** — [repo](https://github.com/thrishma/docrity-public)  
+AI documentation tool that reads codebases and generates structured docs.
+
 **[ScrollSay](https://github.com/thrishma/scroll-say)**  
 AI Chrome extension generating contextual social media comments.
 
-**[AutoReel](https://github.com/thrishma/auto-reel)**  
-Serverless AI system generating reels from photo libraries using AWS.
+**[Seat-Buddy](https://github.com/thrishma/Seat-Buddy)**  
+Simulate your seat with height-aware sightlines and a one-tap tall person test.
 
-**[Docrity](https://www.docrity.ca/)** — [repo](https://github.com/thrishma/docrity-public)  
-AI documentation tool that reads codebases and generates structured docs.
+**[analyze-calls](https://github.com/thrishma/analyze-calls)**  
+Open-source AI platform for analyzing customer discovery calls — extract pain points, feature requests, and objections from transcripts.
+
+**[CARE](https://github.com/thrishma/CARE-public)**  
+Composable Architecture Recommendation Engine — generates architecture diagrams through conversation.
 
 ---
 
