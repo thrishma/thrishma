@@ -27,7 +27,7 @@ AI documentation tool that reads codebases and generates structured docs.
 **[ScrollSay](https://github.com/thrishma/scroll-say)** &nbsp; [![](https://img.shields.io/badge/scrollsay.com-live-4CAF50?style=flat-square)](https://scrollsay.com) &nbsp; ![](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 AI Chrome extension generating contextual social media comments.
 
-**[Seat-Buddy](https://github.com/thrishma/Seat-Buddy)** &nbsp; ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+**[Seat-Buddy](https://github.com/thrishma/Seat-Buddy)** &nbsp; [![](https://img.shields.io/badge/Live-stage--view--buddy.lovable.app-4CAF50?style=flat-square)](https://stage-view-buddy.lovable.app) &nbsp; ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 Simulate your seat with height-aware sightlines and a one-tap tall person test.
 
 **[analyze-calls](https://github.com/thrishma/analyze-calls)** &nbsp; ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  
