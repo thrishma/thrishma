@@ -19,16 +19,16 @@ I build AI products and developer tools that turn messy real-world data into usa
 
 ## 🚀 Current Projects
 
-**Zoneity**  
+**[Zoneity](https://github.com/thrishma/zoneity)**  
 AI platform turning zoning regulations into structured, queryable data.
 
-**ScrollSay**  
+**[ScrollSay](https://github.com/thrishma/scroll-say)**  
 AI Chrome extension generating contextual social media comments.
 
-**AutoReel**  
+**[AutoReel](https://github.com/thrishma/auto-reel)**  
 Serverless AI system generating reels from photo libraries using AWS.
 
-**Docrity**  
+**[Docrity](https://github.com/thrishma/docrity-public)**  
 AI documentation tool that reads codebases and generates structured docs.
 
 ---
