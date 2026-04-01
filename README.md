@@ -14,9 +14,6 @@ I build AI products and developer tools that turn messy real-world data into usa
 - **1,993 contributions** in the last year
 - 8+ years across AI, cloud, and commerce systems
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thrishma&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
