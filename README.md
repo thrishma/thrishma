@@ -54,11 +54,9 @@ Docker • GitHub Actions • Infrastructure as Code
 
 ## 🔬 Currently Exploring
 
-AI agents  
-Developer tools  
-Urban data infrastructure  
-Automation systems  
-Computer vision
+- **LLM pipelines for document extraction** — parsing dense regulatory PDFs into structured, queryable data (Zoneity)
+- **AI-assisted documentation** — keeping docs in sync with fast-moving codebases (Docrity)
+- **Urban data infrastructure** — making zoning and land-use data programmable for architects and builders
 
 ---
 
