@@ -11,7 +11,6 @@ Hi, I'm **Thrishma Reddy** — engineer based in Canada.
 I build AI products and developer tools that turn messy real-world data into usable systems.
 
 - Building **Zoneity** — AI platform turning zoning regulations into queryable data
-- **1,993 contributions** in the last year
 - 8+ years across AI, cloud, and commerce systems
 
 
