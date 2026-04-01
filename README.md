@@ -58,12 +58,3 @@ Docker • GitHub Actions • Infrastructure as Code
 - **AI-assisted documentation** — keeping docs in sync with fast-moving codebases (Docrity)
 - **Urban data infrastructure** — making zoning and land-use data programmable for architects and builders
 
----
-
-## 🌐 Connect
-
-Portfolio  
-https://thrishma.com
-
-LinkedIn  
-https://linkedin.com/in/thrishma-reddy
