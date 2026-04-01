@@ -24,7 +24,7 @@ AI platform turning zoning regulations into structured, queryable data.
 **[Docrity](https://github.com/thrishma/docrity-public)** &nbsp; [![](https://img.shields.io/badge/docrity.ca-live-4CAF50?style=flat-square)](https://www.docrity.ca) &nbsp; ![](https://img.shields.io/badge/Claude_API-D97757?style=flat-square) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
 AI documentation tool that reads codebases and generates structured docs.
 
-**[ScrollSay](https://github.com/thrishma/scroll-say)** &nbsp; ![](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+**[ScrollSay](https://github.com/thrishma/scroll-say)** &nbsp; [![](https://img.shields.io/badge/scrollsay.com-live-4CAF50?style=flat-square)](https://scrollsay.com) &nbsp; ![](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 AI Chrome extension generating contextual social media comments.
 
 **[Seat-Buddy](https://github.com/thrishma/Seat-Buddy)** &nbsp; ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
