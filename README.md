@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Building+AI+products+%26+developer+tools;Shipping+AI+tools+that+solve+real+problems" alt="Typing SVG" />
 </p>
 
-<h2 align="center">Welcome 👋</h2>
-
-Hi, I'm  **Thrishma Reddy**,
-Senior Software Engineer building **AI products, developer tools, and scalable cloud systems**.
-
-I enjoy turning complex problems into simple systems and real products.
+Hi, I'm **Thrishma Reddy** — engineer based in Canada.  
+I build AI products and developer tools that turn messy real-world data into usable systems.
 
 ---
 
