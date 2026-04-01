@@ -38,25 +38,6 @@ Composable Architecture Recommendation Engine — generates architecture diagram
 
 ---
 
-## 🛠 Tech Stack
-
-**AI / ML**  
-LLMs • Prompt Engineering • AI Agents • Claude API • Vector Search
-
-**Frontend**  
-Next.js 14 • TypeScript • React • Tailwind CSS
-
-**Cloud & Data**  
-Supabase (Postgres + PostGIS) • AWS Lambda • DynamoDB • Serverless architecture
-
-**Engineering**  
-Python • Node.js • REST APIs • Distributed systems
-
-**Tools**  
-Docker • GitHub Actions • Infrastructure as Code
-
----
-
 ## 🔬 Currently Exploring
 
 - **LLM pipelines for document extraction** — parsing dense regulatory PDFs into structured, queryable data (Zoneity)
