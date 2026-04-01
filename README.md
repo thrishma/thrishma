@@ -15,8 +15,7 @@ I build AI products and developer tools that turn messy real-world data into usa
 - 8+ years across AI, cloud, and commerce systems
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thrishma&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrishma&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=thrishma&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
