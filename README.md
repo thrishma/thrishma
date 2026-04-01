@@ -35,16 +35,16 @@ AI documentation tool that reads codebases and generates structured docs.
 ## 🛠 Tech Stack
 
 **AI / ML**  
-LLMs • Prompt Engineering • AI Agents • Vector Search
+LLMs • Prompt Engineering • AI Agents • Claude API • Vector Search
 
-**Cloud**  
-AWS Lambda • DynamoDB • SQS • Event-driven systems • Serverless architecture
+**Frontend**  
+Next.js 14 • TypeScript • React • Tailwind CSS
+
+**Cloud & Data**  
+Supabase (Postgres + PostGIS) • AWS Lambda • DynamoDB • Serverless architecture
 
 **Engineering**  
-Python • Node.js • React • REST APIs • Distributed systems
-
-**Commerce Architecture**  
-Composable commerce • MACH architecture • Headless ecommerce • API orchestration
+Python • Node.js • REST APIs • Distributed systems
 
 **Tools**  
 Docker • GitHub Actions • Infrastructure as Code
